@@ -66,7 +66,7 @@ Un audio calme mêlant des synthétiseurs et des montages sonores expérimentaux
 | Haut-parleur Genelec    |  2       |
 | Haut-parleur Dvoom      |  10      |
 | Boule semi-transparente |  1       |
-| Support pour la boule   |  10      |
+| Support pour la boule   |  1      |
 | Berring à bille         |  4       |
 | PMW3360 Motion Sensor   |  1       |
 | Module LIDAR            |  2       |
